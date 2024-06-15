@@ -40,6 +40,9 @@ Kosmo113에서 Django 프로젝트로 진행했던 레시피 공유 플랫폼, H
 * 사업관리
 * 디자인
 
+## 프로젝트 발표 자료
+[링크](https://docs.google.com/presentation/d/1t_gBaoEjwjuFsr2eYIxVcfn56OfZKeKW/edit?usp=sharing&ouid=103278104232029394317&rtpof=true&sd=true)
+
 ## 프로젝트 내 개인 수행업무
 - RPA를 활용한 데이터 수집 및 회원 더미 데이터 생성
 - 카테고리별 Best20을 클라이언트에게 출력하는 Main 화면 구현
